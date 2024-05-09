@@ -1,3 +1,3 @@
 # KAKEBO
 
-A ser posible con tkintercon una api y flask
+Versión de KAKEBO a través de consola sin persistencia de datos.
