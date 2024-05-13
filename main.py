@@ -144,7 +144,7 @@ totalGastos = obtenerTotal(listaGastos)
 saldo = totalIngresos - totalGastos
 
 
-print("VERSION DOS LISTAS")
+print("VERSION IMPRESIÓN EN PANTALLA MANEJANDO DOS LISTAS DE DATOS")
 print(f"Ingresos totales: {totalIngresos} €")
 print(f"Gastos totales  : {totalGastos} €")
 print("")
@@ -156,7 +156,7 @@ print(f"Saldo   : {saldo:10.2f} €")
 
 totalI, totalG, saldoTotal = obtenerTotales(listaMovimientos)
 print("")
-print("VERSION UNA LISTA")
+print("VERSION IMPRESIÓN EN PANTALLA MANEJANDO UNA LISTA DE DATOS")
 print(f"Ingresos: {totalI:10.2f} €")
 print(f"Gastos..: {totalG:10.2f} €")
 print(f"Saldo...: {saldoTotal:10.2f} €")
